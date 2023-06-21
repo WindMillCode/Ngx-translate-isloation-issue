@@ -1,0 +1,8 @@
+{
+  "WmlButtonZero":{
+    "label":"This is wml button zero"
+  },
+  "global":{
+    "text":"This is meant for the whole app"
+  }
+}
