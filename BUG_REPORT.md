@@ -1,7 +1,7 @@
-# Ngx translate isloation issue issue
+# Ngx translate isloation issue
 ## Links to issue
 *[Youtube](https://www.youtube.com/watch?v=pxVXf4IjrJ0)
-*[Github]()
+*[Github](https://github.com/WindMillCode/Ngx-translate-isloation-issue)
 
 ## Expected Behavior
 * if I use TranslateModule.forChild what should happen in the production application, only the buttons should update not the whole application
